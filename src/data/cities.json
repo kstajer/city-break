@@ -1,0 +1,35 @@
+{
+    "cities": 
+    [
+    {
+        "cityId": 0,
+        "cityName": "Barcelona",
+        "countryName": "Hiszpania",
+        "countryCode": "ESP",
+        "description": "Barcelona – stolica Katalonii to najbardziej kosmopolityczne miasto Hiszpanii, śródziemnomorska perełka zbudowana z rozmachem, która może konkurować z najwspanialszymi metropoliami świata. Miasto Gaudiego, Miró i Picassa, gdzie tańczące fontanny i wiecznie otwarte kluby i bary tworzą niepowtarzalną atmosferę. Rewelacja dla lubiących weekendowe wyjazdy pełne atrakcji. Miłośników piłki nożnej ucieszy wizyta na legendarnym stadionie FC Barcelona. Nie można być w Barcelonie i nie spróbować kuchni śródziemnomorskiej, słynnych tapas i kieliszka katalońskiego wina cava.",
+        "places": 
+        [
+            { "name":"Sagrada Familia", "photo":"https://img.itinari.com/pages/images/original/6bc83f35-ac2e-4791-b95c-dfb20e7427bf-istock-518030534.jpg?ch=DPR&dpr=2.625&w=1200&h=800&s=a882c42f6630e32110cea2857edbe84b", "description": "Temple Expiatori de la Sagrada Familia (Kościół Świętej Rodziny) jest najbardziej niekonwencjonalnym z europejskich kościołów i jednocześnie wizytówką Barcelony. Inspirowany naturą i nasycony symbolicznym treściami jest bezapelacyjnie największym dziełem Gaudiego i jednocześnie budynkiem, o którym mówiło się, mówi i będzie się mówić przez wiele lat."},
+            { "name":"Camp Nou", "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Camp_Nou_aerial_%28cropped%29.jpg/240px-Camp_Nou_aerial_%28cropped%29.jpg", "description": "Jest to stadion piłkarski o największej pojemności w całej Europie i od 1957 roku rozgrywane są na nim mecze FC Barcelony. Obiekt jest uznany przez UEFA za stadion pięciogwiazdkowy, co jest możliwie najwyższą oceną, i może pomieścić około 99 000 widzów." },
+            { "name":"Park Guell", "photo":"https://cdn.getyourguide.com/img/location/53bffbaa37e37-m1398846174.jpg/68.jpg", "description": "Park Güell dzieli się na dwie części, zamknięty środek, w którym znajdziemy dzieła Gaudiego, oraz na otaczającą go część otwartą - po której możemy dowolnie spacerować. Kupując bilet, kupujemy go na konkretną godzinę - i na każdy “slot” czasowy nałożony jest limit odwiedzających (400 osób na każde pół godziny)." }
+        ],
+
+        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 100zł w dwie strony. Z lotniska Barcelona El-Prat dojedziemy do centrum pociągiem, metrem, busem."
+    },
+    {
+        "cityId": 1,
+        "cityName": "Londyn",
+        "countryName": "Wielka Brytania",
+        "countryCode": "GBR",
+        "description": "Jedna z naukowych i kulturalnych stolic świata, należy do ścisłej czołówki największych metropolii. Kiedy zachodzą zmiany w świecie polityki i finansów, a nurty artystyczne zmieniają bieg, istnieje duża szansa, że dzieje się to właśnie tu. Londyn to miasto światowej klasy muzeów, galerii, teatrów, sklepów, pomników, kościołów i niezliczonych zabytków. Miasto przesiąknięte tradycją może jednocześnie poszczycić się mianem światowego lidera wyznaczającego trendy i nowatorskie rozwiązania w dziedzinie mody, technologii i sztuki. Londyn można zwiedzać tygodniami, ale żeby poczuć jego specyficzną atmosferę, wystarczy dobrze zorganizowany krótki wyjazd.",
+        "places": 
+        [
+            { "name":"Buckingham Palace", "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg/1200px-Buckingham_Palace_from_gardens%2C_London%2C_UK_-_Diliff_%28cropped%29.jpg", "description": "Pałac Buckingham to największy na świecie pałac królewski. Obiekt ma aż 77 tysięcy metrów kwadratowych powierzchni mieszkalnej. Mieści w sobie sześćset komnat, w tym dziewiętnaście reprezentacyjnych, ponad siedemdziesiąt łazienek i prawie dwieście sypialni."},
+            { "name":"Big Ben", "photo": "https://ocdn.eu/pulscms-transforms/1/eFck9kpTURBXy9mNGNmZjhhNGY3Mjc4NDg2NjE5ZGI1Mzg3ZjAzMzMwYS5qcGeWlQLNAxQAwsOVAgDNAvjCw5QGzP_M_8z_lAbM_8z_zP-UBsz_zP_M_5QGzP_M_8z_gaEwBQ", "description": "Wieża, zwana Big Ben, ma 96,3 m wysokości, na taras widokowy znajdujący się na jej górze prowadzą 334 stopnie. Na każdej ścianie zewnętrznej wieży Big Ben znajduje się jedna tarcza zegarowa. Każda z nich ma 7 m średnicy. Zegar został zbudowany w 1854 roku, przez Edmunda Becketta Denisona i przedsiębiorstwo EJ Dent&CO" },
+            { "name":"London Eye", "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/London_Eye_-_TQ04_26.jpg", "description": "Koło ma wysokość 135 metrów, a jego pełny obrót trwa około 30 minut. Na kole znajdują się 32 klimatyzowane kapsuły pasażerskie. Niewielka prędkość liniowa tych kabin (ok. 0,8 km/h) pozwala na zabieranie i wysadzenie pasażerów bez zatrzymywania koła." }
+        ],
+
+        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 60 zł w dwie strony."
+    }
+    ]
+}
