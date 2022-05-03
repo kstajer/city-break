@@ -59,3 +59,9 @@
   font-size: 30px;
   cursor: pointer;
 }
+
+.city-info {
+  transition: height .3s ease;
+  height: 0px;
+  overflow: hidden;
+}
