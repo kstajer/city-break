@@ -29,7 +29,7 @@ const Cities = () => {
       <div className='cities'>
         {content.map(function (content) {
           return (
-            <div className='img-parent' onClick={() => { navigate(`/city/${content[0]}`) }}>
+            <div key={content[1]} className='img-parent' onClick={() => { navigate(`/city/${content[0]}`) }}>
               <Photo name={content[1]} img={content[2]} />
             </div>)
         })}

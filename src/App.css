@@ -41,6 +41,7 @@ body {
   line-height: 50px;    
   font-size: 15px;
   cursor: pointer;
+  transition: color .3s;
 }
 
 .navigation div:hover {
@@ -92,8 +93,9 @@ body {
 }
 .img-parent {
   position: relative;
-  text-align:justify;
-  width: 30%;
+  text-align: justify;
+  min-width: 160px;
+  flex-basis: 29%;
   filter: grayscale(75%);
   transition: all 0.3s ease;
   margin: 10px;
@@ -110,6 +112,7 @@ body {
 
 .img-desc {
   position: absolute;
+  background-color: rgba(0, 0, 0, 0.4);
   color: white;
   font-size: 30px;
   top: 50%;
@@ -119,5 +122,12 @@ body {
 
 .cities {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
   margin-top: 20px;
+}
+
+.socials > *{
+  margin: 20px 10px;
+
 }
