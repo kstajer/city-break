@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue');
+@import url('https://fonts.googleapis.com/css?family=Koulen');
+
+
+body {
+  background-color: white;
+
+  }
+
 
 .App {
   text-align: center;
@@ -9,14 +18,14 @@
   position: fixed;
   top: 0;
   width: 100%;
-  min-height: 10vh;
+  min-height: 5vh;
   display: flex;
   justify-content: space-between;
-  background-color: lightblue;
+  background-color: black;
 }
 
 .logo {
-  height: 100px;
+  height: 50px;
   cursor: pointer;
 }
 
@@ -27,10 +36,15 @@
 
 .navigation div {
   text-decoration: none;
+  color:white;
   margin-right: 50px;
-  line-height: 100px;    
-  font-size: 30px;
+  line-height: 50px;    
+  font-size: 15px;
   cursor: pointer;
+}
+
+.navigation div:hover {
+  color:red;
 }
 
 .content {
@@ -43,25 +57,67 @@
 
 .container {
   display: grid;
-  grid-template-columns: 20% 60% 20%;
+  grid-template-columns: 25% 50% 25%;
 }
 
 .toggle-btn {
   width: 100%;
   height: 40px;
   font-size: 25px;
-  background-color: lightblue;
-  border: 1px solid black;
+  background-color: rgb(213, 213, 213);
+  border: none;
+  border-radius: 5%;
   margin: 20px 0 ;
+  box-shadow: 0px 0px 5px 0px rgba(66, 68, 90, 1);
 }
 
-.bigger-text {
-  font-size: 30px;
-  cursor: pointer;
+.toggle-btn:hover {
+  box-shadow: 0px 0px 5px 1px rgba(66, 68, 90, 1);
+}
+
+.title {
+  font-size: 37px;
+  text-transform: uppercase; 
 }
 
 .city-info {
   transition: height .3s ease;
   height: 0px;
   overflow: hidden;
+}
+
+.photo {
+  width: 100%;
+  height: 100%;
+}
+.img-parent {
+  position: relative;
+  text-align:justify;
+  width: 30%;
+  filter: grayscale(75%);
+  transition: all 0.3s ease;
+  margin: 10px;
+}
+
+.img {
+  width: 100%;
+}
+
+.img-parent:hover {
+  filter: grayscale(0%);
+  transform: scale(1.05);
+}
+
+.img-desc {
+  position: absolute;
+  color: white;
+  font-size: 30px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cities {
+  display: flex;
+  margin-top: 20px;
 }

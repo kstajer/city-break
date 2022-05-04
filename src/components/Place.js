@@ -1,9 +1,13 @@
 import { useState, useRef, useEffect, React } from 'react'
 
 
-const Place = () => {
+const Place = ({ name, link, desc }) => {
   return (
-    <div>Place</div>
+    <div>
+      <h2>{name}</h2>
+      <img className='photo' src={link}></img>
+      <div>{desc}</div>
+    </div>
   )
 }
 

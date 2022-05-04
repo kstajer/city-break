@@ -1,4 +1,5 @@
-import { useState, useRef, useEffect, React } from 'react'
+import { set } from 'animejs';
+import { useState, useRef, React } from 'react'
 
 const Collapsible = ({ desc, text }) => {
   const [isOpen, setIsOpen] = useState(false);
@@ -9,7 +10,6 @@ const Collapsible = ({ desc, text }) => {
       <button className='toggle-btn' onClick={() => {
         setIsOpen(!isOpen);
       }}>{text}</button>
-
       <div
         ref={parentRef}
         className="city-info"
