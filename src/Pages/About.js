@@ -13,12 +13,11 @@ const About = () => {
           Karol Stajer
           <br/>
           kastajer1@gmail.com
-        </div>
         <div className='socials'>
           <SocialIcon url="https://github.com/kstajer" />
           <SocialIcon url="https://www.linkedin.com/in/karolstajer/" />
         </div>
-
+        </div>
     </div>
 
   )

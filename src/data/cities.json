@@ -60,7 +60,7 @@
             { "name":"Most Karola", "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Night_view_of_the_Castle_and_Charles_Bridge%2C_Prague_-_8034.jpg/2560px-Night_view_of_the_Castle_and_Charles_Bridge%2C_Prague_-_8034.jpg", "description": "Praski most od dawien dawna uważany był za najsłynniejszy zabytek Pragi. Tak jak mówi się o krzywej wieży w Pizie czy o piramidach egipskich, podróżnicy, którzy w swoich wojażach zahaczyli o Pragę, opowiadają przede wszystkim o jej moście. W dawnych czasach nawet dla ludzi bywałych w świecie był to cud techniki, czarodziejski wytwór ducha i rąk. Później, kiedy kamienne mosty nie były już w Europie rzadkością, stary most utrzymał swoją dominującą pozycję wśród praskich zabytków dzięki związanym z nim wspomnieniom historycznym oraz dzięki unikalnym rzeźbom jakie go zdobią. Most ma swoją legendę i swoją historię. Wierzono, że łączy brzegi Wełtawy od pradawnych czasów."},
             { "name":"Zamek na Hradczanach", "photo": "https://last-minute.io/wp-content/uploads/2021/06/zamek-hradczany.jpg", "description": "Zamek w Pradze, na Hradczanach, istniejący już od najstarszych dziejów Pragi, dawna siedziba królów czeskich. Według Księgi rekordów Guinnessa jest to największy pod względem zajmowanej powierzchni zamek na świecie"},
             { "name":"Rynek Staromiejski w Pradze", "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg/2560px-Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg", "description": "Znajduje się między placem Wacława i mostem Karola. W okresie letnim rynek jest często przepełniony turystami. Na rynku znajdują się budynki w wielu stylach architektonicznych, w tym gotycki kościół Najświętszej Marii Panny przed Tynem, barokowy kościół św. Mikołaja i rokokowy Pałac Kinskich, w którym np. mieściło się w okresie międzywojennym Poselstwo RP (1922-1934). Plac jest oazą dla turystów zmęczonych wędrówką po wąskich uliczkach Pragi. Oprócz wielu kościołów, turyści mogą zobaczyć na tym placu także praski zegar astronomiczny, a z wieży Ratusza Staromiejskiego roztacza się panorama Starego Miasta."}
-],
+        ],
 
         "flights": "Najprostszym sposobem dotarcia do Pragi jest podróż autobusem lub pociągiem. Bilety da się kupić w cenie ok. 100zł.",
         "skyLink": "https://www.skyscanner.pl/transport/loty/pl/prg/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27546033&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
@@ -77,10 +77,27 @@
             { "name":"Plac św. Marka", "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Venezia_piazza_s.Marco_2.JPG", "description": "W tym miejscu bije serce Wenecji. To największy i najważniejszy plac w mieście, który odbierze ci dech w piersiach skalą stojących przy nim zabytków (o nich poniżej). Poza ich zwiedzaniem warto pozwolić sobie na chwilę wytchnienia – kupić pamiątki i napić się kawy w najstarszej kawiarni w Wenecji, działającej od XVIII w. Caffe Florian."},
             { "name":"Most Rialto", "photo": "https://i.wpimg.pl/O/1280x803/d.wpimg.pl/1591904900--2080506056/most-rialto.jpg", "description": "Najpiękniejszym i najstarszym mostem rozciągającym się nad Canal Grande jest Rialto. Konstrukcja robi wrażenie swoją wielkością. Ponad 28 m rozpiętości i 7m wysokości pozwoliło na umieszczenie tam aż 24 sklepików. Przepływając pod mostem, warto zwrócić uwagę na reliefy św. Marka i św. Teodora oraz kapliczkę Matki Boskiej u dołu."}
 
-],
+        ],
 
         "flights": "Najprostszym sposobem dotarcia do Wenecji jest podróż samolotem. W okolicy znajdują się dwa lotniska: Treviso i Marco Polo",
         "skyLink": "https://www.skyscanner.pl/transport/loty/pl/veni/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27547373&inboundaltsenabled=false&infants=0&originentityid=29475260&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
+    },
+    {
+        "cityId": 5,
+        "cityName": "Wiedeń",
+        "countryName": "Austria",
+        "countryCode": "AUT",
+        "description": "Malowniczo położona nad Dunajem stolica Austrii, to tętniąca życiem, nowoczesna metropolia, bardzo przyjazna turystom. W programie wycieczki są wszystkie obowiązkowe punkty zwiedzania jak Schonbrunn, Opera, Hofburg, Stare Miasto, katedra św. Stefana i Kahlenberg. Wiedeń jest miastem wyjątkowym pod wieloma względami: tu Habsburgowie założyli swoją stolicę, tu mieszkali i tworzyli klasycy wiedeńscy: m.in. Wolfgang Amadeusz Mozart i Ludwig van Beethoven, a Jan Sobieski pokonał Turków. Współczesny Wiedeń jest równie fascynujący. Zwariowana architektura Hundertwasserhaus, malowniczy Grinzig z nastrojowymi knajpkami i pysznym lokalnym winem, eleganckie butiki i rewelacyjne muzea i galerie. Tu warto przyjechać, nawet na kilka dni.",
+        "places": 
+        [
+            { "name":"Prater", "photo": "https://1.bp.blogspot.com/-OKLodW0QdEM/W3h4hacfToI/AAAAAAADJM0/UcmTFOo_Pd4smxJZzc85z67s-dk-zD-WQCLcBGAs/s1600/DSC_0586.JPG", "description": "Wiener Prater – park publiczny (600 ha) w Wiedniu, położony między Dunajem a Kanałem Dunajskim. Niegdyś były to tereny łowieckie Habsburgów, które cesarz Józef II udostępnił publiczności w 1766 r. Jego nazwa pochodzi od łacińskiego słowa pratum, co oznacza tyle co łąki. Jest to popularny ośrodek wypoczynkowo-sportowy."},
+            { "name":"Starówka", "photo": "https://gfx.podroze.radiozet.pl/var/radiozet/storage/images/media/images/graben-wieden/991690-1-pol-PL/Graben-Wieden.jpg", "description": "pierwsza dzielnica Wiednia obejmująca centrum z najstarszą częścią miasta. Dzielnica tradycyjnie podzielona jest na cztery kwartały: Stubenviertel (północny wschód), Kärntner Viertel (południowy wschód), Widmerviertel (południowy zachód), Schottenviertel (północny zachód). Graniczy z dzielnicami: Leopoldstadt od północnego wschodu, Landstraße od wschodu, Wieden oraz Mariahilf od południa, Neubau oraz Josefstadt od zachodu oraz Alsergrund od północy."},
+            { "name":"Pałac Schönbrunn", "photo": "https://antekwpodrozy.pl/foto/2018/wieden2/038.JPG", "description": "Dawna letnia rezydencja Habsburgów zachwyca cesarskimi pomieszczeniami paradnymi oraz imponującymi projektami ogrodowymi. W pałacu Schönbrunn mieszkali kiedyś Maria Teresa, cesarz Franciszek Józef, cesarzowa Elżbieta i inne osobistości. Pałac Schönbrunn to jedno z najpiękniejszych barokowych obiektów w Europie. Jest w posiadaniu rodu Habsburgów od roku 1569. W roku 1642 żona cesarza Ferdynanda II, Eleonora Gonzaga, zleciła budowę letniej rezydencji na tym terenie i po raz pierwszy użyła określenia „Schönbrunn”. Zrealizowany w roku 1696 zespół pałacowo-ogrodowy, po oblężeniu Wiednia przez armię Turków osmańskich, został radykalnie przebudowany po roku 1743 przez Marię Teresę. Dziś pałac ze względu na historyczne znaczenie, wyjątkowy park oraz imponującą aranżację przestrzeni należy do Światowego Dziedzictwa Kulturowego UNESCO."}
+
+        ],
+
+        "flights": "Najprostszym sposobem dotarcia do Wiednia jest podróż pociągiem lub samochodem. Da się jednak znaleźć loty w dobrej cenie",
+        "skyLink": "https://www.skyscanner.pl/transport/loty/pl/vie/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27547395&inboundaltsenabled=false&infants=0&originentityid=29475260&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     }
     ]
 }

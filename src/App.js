@@ -4,7 +4,7 @@ import Navbar from './components/Navbar';
 import Cities from './Pages/Cities';
 import About from './Pages/About';
 import City from './Pages/City'
-
+import Tips from './Pages/Tips';
 
 function App() {
   return (
@@ -14,6 +14,7 @@ function App() {
         <Routes>
           <Route path="/"  element={<Cities />}/>
           <Route path="/city/:id" element={<City />} />
+          <Route path="/tips" element={<Tips />} />
           <Route path="/about" element={<About />} />
         </Routes>
       </Router>
