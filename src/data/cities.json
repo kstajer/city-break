@@ -14,7 +14,8 @@
             { "name":"Park Guell", "photo":"https://cdn.getyourguide.com/img/location/53bffbaa37e37-m1398846174.jpg/68.jpg", "description": "Park Güell dzieli się na dwie części, zamknięty środek, w którym znajdziemy dzieła Gaudiego, oraz na otaczającą go część otwartą - po której możemy dowolnie spacerować. Kupując bilet, kupujemy go na konkretną godzinę - i na każdy “slot” czasowy nałożony jest limit odwiedzających (400 osób na każde pół godziny)." }
         ],
 
-        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 100zł w dwie strony. Z lotniska Barcelona El-Prat dojedziemy do centrum pociągiem, metrem, busem."
+        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 100zł w dwie strony. Z lotniska Barcelona El-Prat dojedziemy do centrum pociągiem, metrem, busem.",
+        "skyLink":"https://www.skyscanner.pl/transport/loty/pl/bcn/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27548283&inboundaltsenabled=false&infants=0&originentityid=29475260&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     },
     {
         "cityId": 1,
@@ -29,7 +30,8 @@
             { "name":"London Eye", "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/London_Eye_-_TQ04_26.jpg", "description": "Koło ma wysokość 135 metrów, a jego pełny obrót trwa około 30 minut. Na kole znajdują się 32 klimatyzowane kapsuły pasażerskie. Niewielka prędkość liniowa tych kabin (ok. 0,8 km/h) pozwala na zabieranie i wysadzenie pasażerów bez zatrzymywania koła." }
         ],
 
-        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 60 zł w dwie strony."
+        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 60 zł w dwie strony.",
+        "skyLink": "https://www.skyscanner.pl/transport/loty/pl/lond/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27544008&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     },
     {
         "cityId": 2,
@@ -44,7 +46,8 @@
             { "name":"Fontanna di Trevi", "photo": "https://www.itaka.pl/blog/wp-content/uploads/2019/12/fontanna-di-trevi-rzym-wlochy.jpg", "description": "Rzeźbiarska, marmurowa dekoracja Fontanny di Trevi przedstawia boga mórz, Neptuna, otoczonego morskimi bóstwami - trytonami. Po jego obu stronach stoją zaś posągi symbolizujące obfitość oraz zdrowie. Sam Neptun ukazany jest w rydwanie, zaprzężonym w dwa stworzenia, które są połączeniem konia i ryby." }
         ],
 
-        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 100 zł w dwie strony."
+        "flights": "Najbardziej opłaca się polecieć linią budżetową (Ryanair, Wizzair). Ceny lotów zaczynają się od 100 zł w dwie strony.",
+        "skyLink": "https://www.skyscanner.pl/transport/loty/pl/rome/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27539793&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     },
     {
         "cityId": 3,
@@ -59,7 +62,8 @@
             { "name":"", "photo": "", "description": ""}
 ],
 
-        "flights": "Najprostszym sposobem dotarcia do Pragi jest podróż autobusem lub pociągiem. Bilety da się kupić w cenie 18zł (Flixbus)."
+        "flights": "Najprostszym sposobem dotarcia do Pragi jest podróż autobusem lub pociągiem. Bilety da się kupić w cenie 18zł (Flixbus).",
+        "skyLink": "https://www.skyscanner.pl/transport/loty/pl/prg/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27546033&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     }
     ]
 }
