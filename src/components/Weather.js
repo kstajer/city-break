@@ -13,24 +13,23 @@ const Weather = ({ cityName }) => {
             .then((data) => setApiData(data));
     }, [url]);
 
-    console.log(apiData)
     return (
         <div>
-            <h3>Pogoda</h3>
-            <div>Teraz
-                <br />
-                {apiData.main ? (
-                    <>
-                        <img src={`http://openweathermap.org/img/w/${apiData.weather[0].icon}.png`} />
-                        <div>
-                        {Math.round(apiData.main.temp)}&deg; C
-                        </div>
-                    </>
-                ) :
+            <h2>Pogoda</h2>
+            <h3>Teraz</h3>
+                {apiData.main ? 
+                    (
+                        <>
+                            <img src={`http://openweathermap.org/img/w/${apiData.weather[0].icon}.png`} />
+                            <div>
+                                {Math.round(apiData.main.temp)}&deg; C
+                            </div>
+                        </>
+                    ) :
                     (
                         <p>Ładowanie</p>
-                    )}
-            </div>
+                    )
+                }
         </div>
     )
 }

@@ -1,7 +1,6 @@
-import { set } from 'animejs';
 import { useState, useRef, React } from 'react'
 
-const Collapsible = ({ desc, text }) => {
+const Collapsible = ({ desc, text, skyLink }) => {
   const [isOpen, setIsOpen] = useState(false);
   const parentRef = useRef();
 
@@ -22,7 +21,8 @@ const Collapsible = ({ desc, text }) => {
               height: "0px",
             }
         }
-      >{desc}</div>
+      >{desc}
+      </div>
     </div>
   )
 }

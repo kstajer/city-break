@@ -34,8 +34,6 @@ const Cities = () => {
             </div>)
         })}
       </div>
-
-
     </>
   )
 }

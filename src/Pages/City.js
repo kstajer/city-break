@@ -9,23 +9,47 @@ const City = () => {
   const data = require('../data/cities.json');
   const city = data.cities[id];
 
-
-  return (
-    <div className='content container'>
-      <div className='city'>
-        <h1 className='title'>{city.cityName}</h1>
-        <Collapsible desc={city.description} text={"INFO"} />
-        <Collapsible desc={city.flights} text={"DOJAZD"} />
-        <Collapsible desc=
-          {<>
-            <Place link={city.places[0].photo} name={city.places[0].name} desc={city.places[0].description} />
-            <Place link={city.places[1].photo} name={city.places[1].name} desc={city.places[1].description} />
-            <Place link={city.places[2].photo} name={city.places[2].name} desc={city.places[2].description} />
-          </>} text={"ATRAKCJE"} />
+  const isMobile = window.innerWidth <= 500;
+  if (!isMobile) {
+    return (
+      <div className='content container'>
+        <div className='city'>
+          <h1 className='title'>{city.cityName}</h1>
+          <Collapsible desc={city.description} text={"INFO"} />
+          <Collapsible desc={city.flights} text={"DOJAZD"} skyLink={city.skyLink} />
+          <Collapsible desc=
+            {
+              city.places.map(function (content) {
+                return (
+                  <div key={content.name} >
+                    <Place link={content.photo} name={content.name} desc={content.description} />
+                  </div>)
+              })} text={"ATRAKCJE"} />
+        </div>
+        <Weather cityName={city.cityName} />
       </div>
-      <Weather cityName={city.cityName}/>
-    </div>
-  )
+    )
+  } else
+  {
+    return (
+      <div className='content container-mobile'>
+        <div className='city'>
+          <h1 className='title'>{city.cityName}</h1>
+          <Collapsible desc={city.description} text={"INFO"} />
+          <Collapsible desc={city.flights} text={"DOJAZD"} skyLink={city.skyLink} />
+          <Collapsible desc=
+            {
+              city.places.map(function (content) {
+                return (
+                  <div key={content.name} >
+                    <Place link={content.photo} name={content.name} desc={content.description} />
+                  </div>)
+              })} text={"ATRAKCJE"} />
+        </div>
+      </div>
+    )
+  }
+
 }
 
 export default City
