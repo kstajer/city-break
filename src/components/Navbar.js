@@ -14,7 +14,7 @@ const Navbar = () => {
         }/>
         <nav className="navigation">
           <div onClick={() => {
-            navigate("/cities")
+            navigate("/")
           }}>Miejsca</div>
           <div onClick={() => {
             navigate("/about")

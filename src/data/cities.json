@@ -58,12 +58,31 @@
         "places": 
         [
             { "name":"Most Karola", "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Night_view_of_the_Castle_and_Charles_Bridge%2C_Prague_-_8034.jpg/2560px-Night_view_of_the_Castle_and_Charles_Bridge%2C_Prague_-_8034.jpg", "description": "Praski most od dawien dawna uważany był za najsłynniejszy zabytek Pragi. Tak jak mówi się o krzywej wieży w Pizie czy o piramidach egipskich, podróżnicy, którzy w swoich wojażach zahaczyli o Pragę, opowiadają przede wszystkim o jej moście. W dawnych czasach nawet dla ludzi bywałych w świecie był to cud techniki, czarodziejski wytwór ducha i rąk. Później, kiedy kamienne mosty nie były już w Europie rzadkością, stary most utrzymał swoją dominującą pozycję wśród praskich zabytków dzięki związanym z nim wspomnieniom historycznym oraz dzięki unikalnym rzeźbom jakie go zdobią. Most ma swoją legendę i swoją historię. Wierzono, że łączy brzegi Wełtawy od pradawnych czasów."},
-            { "name":"Zamek na Hradczanach", "photo": "", "description": "amek w Pradze, na Hradczanach, istniejący już od najstarszych dziejów Pragi, dawna siedziba królów czeskich. Według Księgi rekordów Guinnessa jest to największy pod względem zajmowanej powierzchni zamek na świecie"},
-            { "name":"", "photo": "", "description": ""}
+            { "name":"Zamek na Hradczanach", "photo": "https://last-minute.io/wp-content/uploads/2021/06/zamek-hradczany.jpg", "description": "Zamek w Pradze, na Hradczanach, istniejący już od najstarszych dziejów Pragi, dawna siedziba królów czeskich. Według Księgi rekordów Guinnessa jest to największy pod względem zajmowanej powierzchni zamek na świecie"},
+            { "name":"Rynek Staromiejski w Pradze", "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg/2560px-Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg", "description": "Znajduje się między placem Wacława i mostem Karola. W okresie letnim rynek jest często przepełniony turystami. Na rynku znajdują się budynki w wielu stylach architektonicznych, w tym gotycki kościół Najświętszej Marii Panny przed Tynem, barokowy kościół św. Mikołaja i rokokowy Pałac Kinskich, w którym np. mieściło się w okresie międzywojennym Poselstwo RP (1922-1934). Plac jest oazą dla turystów zmęczonych wędrówką po wąskich uliczkach Pragi. Oprócz wielu kościołów, turyści mogą zobaczyć na tym placu także praski zegar astronomiczny, a z wieży Ratusza Staromiejskiego roztacza się panorama Starego Miasta."}
 ],
 
-        "flights": "Najprostszym sposobem dotarcia do Pragi jest podróż autobusem lub pociągiem. Bilety da się kupić w cenie 18zł (Flixbus).",
+        "flights": "Najprostszym sposobem dotarcia do Pragi jest podróż autobusem lub pociągiem. Bilety da się kupić w cenie ok. 100zł.",
         "skyLink": "https://www.skyscanner.pl/transport/loty/pl/prg/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27546033&inboundaltsenabled=false&infants=0&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
+    },
+    {
+        "cityId": 4,
+        "cityName": "Wenecja",
+        "countryName": "Włochy",
+        "countryCode": "ITA",
+        "description": "Wenecja to miasto na wodzie i 100 wyspach, które każdego roku rozpala zmysły milionów turystów. Kojarzy się z romantyzmem i karnawałową zabawą, a jej symbolem są sunące kanałami gondole, mosty, Plac św. Marka z Bazyliką i Pałacem Dożów. Bez nich trudno byłoby sobie wyobrazić Wenecję, to one decydują bowiem o jej splendorze i uroku. To miasto ma jednak także drugie, mniej znane oblicze. Tworzą je miejsca ukrywające się przed turystami oraz Laguna Wenecka z kolorowymi wysepkami. ",
+        "places": 
+        [
+            { "name":"Canal Grande", "photo": "http://miastaeuropy.com/wp-content/uploads/wenecja_canale_grande.jpg", "description": "Canal Grande przecina Wenecję, wijąc się przez wszystkie dzielnice miasta i laguny. Rejs po kanale jest niepowtarzalną okazją, aby z nietypowej atmosfery przyjrzeć się niesamowitym zabytkom: pałacom (jest ich aż 200!), kościołom, mostom. Ich bogactwo zapiera dech w piersiach i dodaje całej wycieczce nuty romantyzmu."},
+            { "name":"Plac św. Marka", "photo": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Venezia_piazza_s.Marco_2.JPG", "description": "W tym miejscu bije serce Wenecji. To największy i najważniejszy plac w mieście, który odbierze ci dech w piersiach skalą stojących przy nim zabytków (o nich poniżej). Poza ich zwiedzaniem warto pozwolić sobie na chwilę wytchnienia – kupić pamiątki i napić się kawy w najstarszej kawiarni w Wenecji, działającej od XVIII w. Caffe Florian."},
+            { "name":"Most Rialto", "photo": "https://i.wpimg.pl/O/1280x803/d.wpimg.pl/1591904900--2080506056/most-rialto.jpg", "description": "Najpiękniejszym i najstarszym mostem rozciągającym się nad Canal Grande jest Rialto. Konstrukcja robi wrażenie swoją wielkością. Ponad 28 m rozpiętości i 7m wysokości pozwoliło na umieszczenie tam aż 24 sklepików. Przepływając pod mostem, warto zwrócić uwagę na reliefy św. Marka i św. Teodora oraz kapliczkę Matki Boskiej u dołu."}
+
+],
+
+        "flights": "Najprostszym sposobem dotarcia do Wenecji jest podróż samolotem. W okolicy znajdują się dwa lotniska: Treviso i Marco Polo",
+        "skyLink": "https://www.skyscanner.pl/transport/loty/pl/veni/?adults=2&adultsv2=2&cabinclass=economy&children=0&childrenv2=&destinationentityid=27547373&inboundaltsenabled=false&infants=0&originentityid=29475260&outboundaltsenabled=false&preferdirects=false&ref=home&rtn=1"
     }
     ]
 }
+
+
