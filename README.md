@@ -4,7 +4,7 @@ Prosta aplikacja webowa napisana przy użyciu biblioteki React.
 
 ## Demo
 
-Otwórz [http://localhost:3000](http://localhost:3000), aby zobaczyć demo.
+Otwórz [link](https://kstajer.github.io/city-break/), aby zobaczyć demo.
 
 ## Opis
 
