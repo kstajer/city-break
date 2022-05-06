@@ -9,7 +9,7 @@ const Navbar = () => {
     <header className="navbar">
 
         <img className="logo" src={Logo} onClick={() => {
-            navigate("/")
+            navigate("/city-break")
           }
         }/>
         <nav className="navigation">
@@ -17,7 +17,7 @@ const Navbar = () => {
             navigate("/tips")
           }}>Wskazówki</div>
           <div onClick={() => {
-            navigate("/")
+            navigate("/city-break")
           }}>Miejsca</div>
           <div onClick={() => {
             navigate("/about")
