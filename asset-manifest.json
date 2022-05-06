@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/city-break/static/css/main.79a07d4a.css",
+    "main.js": "/city-break/static/js/main.361f1b95.js",
+    "static/js/787.464fb2c2.chunk.js": "/city-break/static/js/787.464fb2c2.chunk.js",
+    "index.html": "/city-break/index.html",
+    "main.79a07d4a.css.map": "/city-break/static/css/main.79a07d4a.css.map",
+    "main.361f1b95.js.map": "/city-break/static/js/main.361f1b95.js.map",
+    "787.464fb2c2.chunk.js.map": "/city-break/static/js/787.464fb2c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a07d4a.css",
+    "static/js/main.361f1b95.js"
+  ]
+}
